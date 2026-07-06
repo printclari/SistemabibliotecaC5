@@ -64,7 +64,6 @@ SistemaBiblioteca/
 │── validaciones.py
 │── main.py
 │── README.md
-│── .gitignore
 ```
 
 ---
